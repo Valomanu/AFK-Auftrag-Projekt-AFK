@@ -1,6 +1,6 @@
 # AFK-Auftrag-Projekt-AFK
-## The easy to use Profect and Costumer Managment tool.
-This Software was designed for fast and effiecient minecraft name searches. 
+## The easy to use Project and Costumer Managment tool.
+This Software was designed for AFK Software. 
 
 ## Usage
 1. [Download](https://github.com/Valomasnu/AFK-Auftrag-Projekt-AFK/releases) the .zip file from my Github Page.
